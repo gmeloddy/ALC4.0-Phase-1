@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4.0 Phase 1</string>
+    <string name="welcome_message">Welcome To  ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY  PROFILE</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email: gm.gmelody@gmail.com</string>
+    <string name="phone">Phone Number: 2349033881213</string>
+    <string name="slack_id">Slack Username:@gmelody</string>
+    <string name="name">Gabriel Akpanudom</string>
+</resources>
